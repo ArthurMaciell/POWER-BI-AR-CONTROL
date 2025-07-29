@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from services.negociacoes import get_negociacoes
+from app.services.negociacoes import get_negociacoes
 
 router = APIRouter()
 
