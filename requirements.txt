@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+openpyxl
+sqlalchemy
+psycopg2-binary
+matplotlib
+python-dotenv
+schedule
+dotenv
+httpx
+fastapi
+uvicorn[standard]
