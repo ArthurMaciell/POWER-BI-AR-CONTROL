@@ -89,4 +89,4 @@ Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 🚀
+Desenvolvido por [Arthur Maciel](https://github.com/ArthurMaciell) 🚀
