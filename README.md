@@ -40,7 +40,7 @@ uvicorn app.main:app --reload
 ```
 
 A API estará disponível em:  
-📍 `http://localhost:8000`
+📍 `http://127.0.0.1:8000/negociacoes`
 
 ## 🔁 Agendando atualizações para o Power BI
 
